@@ -1,4 +1,4 @@
-// Hello code in C
+// 1. Hello code in C
 #include <stdio.h>
 int main(){
     printf("Hello Ratn Govindam!");
